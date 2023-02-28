@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Tuhin+Sarker)](https://git.io/typing-svg)
 
 Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development. Using PHP as primary backend language since 2016. Have working experience in PHP, Laravel, Codeigniter, JavaScript, Node JS, Express JS, VueJs, MySQL, MongoDB, Google Cloud, BigQuery, Datastore,  Nginx, Docker, Git and Bitbucket also.
-Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)**.
+Currently working as a **Sr. Software Engineer** in **[Bdtask](https://bdtask.com)**.
 
 <!-- <div style="display: flex;">
   <a align="bottom" href="https://github.com/tuhinsorker/tuhinsorker/raw/main/tuhinsorker.pdf" download>Download Resume </a>
