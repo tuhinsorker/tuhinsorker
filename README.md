@@ -31,7 +31,6 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 <img alt="AWS" src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/google cloud%20-%ff0.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
 <img alt="Google Datastore" src="https://img.shields.io/badge/Google Datastore%20-%ff0.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-<img alt="Big Data" src="https://img.shields.io/badge/Big Data%20-%ff0.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="sass" src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
