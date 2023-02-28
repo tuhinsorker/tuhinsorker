@@ -54,7 +54,6 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 </div>
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=126d64c1-f290-4322-ba47-1d6c1c63f588&layout=compact&theme=radical&count_private=true)](https://github.com/tuhinsorker)
 
 <!-- ### PHP Projects 
 - [Appsero Microservice Project](https://github.com/appsero) (Team Member)
