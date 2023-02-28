@@ -22,7 +22,6 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="react" src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img alt="Tailwind" src="https://img.shields.io/badge/tailwind%20-%23563D7C.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Redis" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
