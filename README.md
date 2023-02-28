@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Tuhin+Sarker)](https://git.io/typing-svg)
 
-Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development. Using PHP as primary backend language since 2016. Have working experience in Python, PHP, Golang, JavaScript, TypeScript, Laravel, Lumen, Node JS, Express JS, VueJs, MySQL, MongoDB, Google Cloud, BigQuery, Datastore,  Nginx, Docker, Git and Bitbucket also.
+Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development. Using PHP as primary backend language since 2016. Have working experience in PHP, Golang, JavaScript, TypeScript, Laravel, Codeigniter, Lumen, Node JS, Express JS, VueJs, MySQL, MongoDB, Google Cloud, BigQuery, Datastore,  Nginx, Docker, Git and Bitbucket also.
 Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)**.
 
 <!-- <div style="display: flex;">
@@ -20,6 +20,7 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Codeigniter" src="https://img.shields.io/badge/codeigniter%20-%23563D7C.svg?&style=for-the-badge&logo=codeigniter&logoColor=red"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23563D7C.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
 <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img alt="Tailwind" src="https://img.shields.io/badge/tailwind%20-%23563D7C.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
