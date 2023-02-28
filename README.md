@@ -11,7 +11,7 @@ Currently working as a **Sr. Software Engineer** in **[Bdtask](https://bdtask.co
 </div> -->
 
 
-##  ⚙️ Tools & Technologies
+##  ⚙️  My favorite tools and technologies
 
 <p align="left">
 
