@@ -4,7 +4,7 @@
 
  As a skilled web developer with 6 years of experience in the field. My expertise lies in developing and maintaining web applications using various web technologies such as PHP, Laravel, Codeigniter, JavaScript, Express JS, VueJs, and ReactJs. I have also proficient in working with databases such as MySQL, MongoDB, Redis, and cloud computing platforms such as Google Cloud.
 Also, I have well-versed in the latest web development practices and frameworks, and my skills in Nginx, Docker, Git, and Bitbucket have helped me to streamline my development process and enhance productivity.
-As a web developer,  possesses excellent problem-solving skills, attention to detail, and a strong work ethic.
+As a web developer,  possesses excellent problem-solving skills, attention to detail, a strong work ethic and
 Currently working as a **Sr. Software Engineer** in **[Bdtask](https://bdtask.com)**.
 
 <!-- <div style="display: flex;">
