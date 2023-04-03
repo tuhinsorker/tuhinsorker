@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Tuhin+Sarker)](https://git.io/typing-svg)
 
-Full-stack web developer from Dhaka, Bangladesh. I have rich experience in Laravel web application development. Using PHP as primary backend language since 2016. Have working experience in PHP, Laravel, Codeigniter, JavaScript, Express JS, VueJs, ReactJs MySQL, MongoDB, Google Cloud, Datastore,  Nginx, Docker, Git and Bitbucket also.
+ As a skilled web developer with 6 years of experience in the field. My expertise lies in developing and maintaining web applications using various web technologies such as PHP, Laravel, Codeigniter, JavaScript, Express JS, VueJs, and ReactJs. I have also proficient in working with databases such as MySQL, MongoDB, Redis, and cloud computing platforms such as Google Cloud.
+Also, I have well-versed in the latest web development practices and frameworks, and my skills in Nginx, Docker, Git, and Bitbucket have helped me to streamline my development process and enhance productivity.
+As a web developer,  possesses excellent problem-solving skills, attention to detail, and a strong work ethic.
 Currently working as a **Sr. Software Engineer** in **[Bdtask](https://bdtask.com)**.
 
 <!-- <div style="display: flex;">
