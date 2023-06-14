@@ -19,8 +19,8 @@ Currently working as a **Sr. Software Engineer** in **[Bdtask](https://bdtask.co
 
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23FF9900.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Codeigniter" src="https://img.shields.io/badge/codeigniter%20-%23563D7C.svg?&style=for-the-badge&logo=codeigniter&logoColor=red"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23563D7C.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
+<img alt="Codeigniter" src="https://img.shields.io/badge/codeigniter%20-%23563D7C.svg?&style=for-the-badge&logo=codeigniter&logoColor=red"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="react" src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
