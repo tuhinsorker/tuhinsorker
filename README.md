@@ -7,9 +7,7 @@ Also, I have well-versed in the latest web development practices and frameworks,
 As a web developer,  possesses excellent problem-solving skills, attention to detail, a strong work ethic and
 Currently working as a **Sr. Software Engineer** in **[Bdtask](https://bdtask.com)**.
 
-<div style="display: flex;">
-  <a align="bottom" href="https://github.com/tuhinsorker/tuhinsorker/blob/main/raw/Md-Tuhin-Sorker.pdf" download> Download Resume </a>
-</div>
+
 
 
 ##  ⚙️  My favorite tools and technologies
