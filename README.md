@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Tuhin Sarker
+# Hi, I'm Md Tuhin Sarker
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3500\&pause=1200\&color=8A38D5\&center=false\&vCenter=true\&width=600\&lines=Senior+Full-Stack+Software+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Node.js+%7C+Express.js+%7C+PostgreSQL;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
